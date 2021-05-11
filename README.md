@@ -5,4 +5,4 @@
 - 📫 How to reach me ...
 
 ![Mirae's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirae109&show_icons=true&theme=buefy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=buefy&repo=github-readme-stats)](https://github.com/mirae109/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
